@@ -1,0 +1,9 @@
+Warning[205] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 2 : Found directive in column 1. (__config)
+Warning[205] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 6 : Found directive in column 1. (ORG)
+Warning[203] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 7 : Found opcode in column 1. (GOTO)
+Warning[205] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 9 : Found directive in column 1. (ORG)
+Warning[203] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 10 : Found opcode in column 1. (GOTO)
+Message[302] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 23 : Found label after column 1. (DONGU)
+Warning[205] L:\DERSLER\MIKRO\MICRO\MICRO\LED_YAKMA\LED_YAKMA.ASM 35 : Found directive in column 1. (END)

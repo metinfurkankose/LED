@@ -1,0 +1,40 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Oct 26 01:32:08 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000009    program   0x000026
+ .config_2007_LED_YAKMA.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000009    0x00001b      
+                            0x002007    0x002007      
+            21 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     AYAR   0x00000a    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+                    DONGU   0x000012    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+                     MAIN   0x000012    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     AYAR   0x00000a    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+                    DONGU   0x000012    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+                     MAIN   0x000012    program     static L:\DERSLER\mikro\Micro\micro\LED_YAKMA\LED_YAKMA.ASM
+
+
